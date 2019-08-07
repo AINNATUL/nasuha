@@ -1,0 +1,14 @@
+C:\Users\Ainnatul Nasuha\source\repos\biodata\biodata\bin\Debug\biodata.exe.config
+C:\Users\Ainnatul Nasuha\source\repos\biodata\biodata\bin\Debug\biodata.exe
+C:\Users\Ainnatul Nasuha\source\repos\biodata\biodata\bin\Debug\biodata.pdb
+C:\Users\Ainnatul Nasuha\source\repos\biodata\biodata\bin\Debug\biodata.xml
+C:\Users\Ainnatul Nasuha\source\repos\biodata\biodata\obj\Debug\biodata.vbprojAssemblyReference.cache
+C:\Users\Ainnatul Nasuha\source\repos\biodata\biodata\obj\Debug\biodata.Form1.resources
+C:\Users\Ainnatul Nasuha\source\repos\biodata\biodata\obj\Debug\biodata.Resources.resources
+C:\Users\Ainnatul Nasuha\source\repos\biodata\biodata\obj\Debug\biodata.vbproj.GenerateResource.cache
+C:\Users\Ainnatul Nasuha\source\repos\biodata\biodata\obj\Debug\biodata.vbproj.CoreCompileInputs.cache
+C:\Users\Ainnatul Nasuha\source\repos\biodata\biodata\obj\Debug\biodata.exe
+C:\Users\Ainnatul Nasuha\source\repos\biodata\biodata\obj\Debug\biodata.xml
+C:\Users\Ainnatul Nasuha\source\repos\biodata\biodata\obj\Debug\biodata.pdb
+C:\Users\Ainnatul Nasuha\source\repos\biodata\biodata\obj\Debug\biodata.Form2.resources
+C:\Users\Ainnatul Nasuha\source\repos\biodata\biodata\obj\Debug\biodata.Form3.resources
